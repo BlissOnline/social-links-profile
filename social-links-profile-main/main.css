@@ -84,8 +84,13 @@ body {
     padding: 1em;
     border-radius: 0.5em;
     margin-bottom: 0.7em;  
+    color: hsl(0, 0%, 90%);
 }
 
 .linkContainer p:hover {
     background-color: hsl(75, 94%, 57%);
+}
+
+.motto p {
+    color: hsl(0, 0%, 90%);
 }
